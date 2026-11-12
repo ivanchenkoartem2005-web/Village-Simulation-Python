@@ -1,0 +1,92 @@
+[
+    {
+        "Village": "Northhold",
+        "Population": 3136,
+        "Food": 536,
+        "Wood": 310,
+        "Stone": 807,
+        "Gold": 2111,
+        "Day": 500
+    },
+    {
+        "Village": "Rivergate",
+        "Population": 1744,
+        "Food": 522,
+        "Wood": 3119,
+        "Stone": 635,
+        "Gold": 2725,
+        "Day": 500
+    },
+    {
+        "Village": "Stonepeak",
+        "Population": 1647,
+        "Food": 396,
+        "Wood": 238,
+        "Stone": 1668,
+        "Gold": 458,
+        "Day": 500
+    },
+    {
+        "Village": "Oakwood",
+        "Population": 520,
+        "Food": 422,
+        "Wood": 333,
+        "Stone": 544,
+        "Gold": 1173,
+        "Day": 500
+    },
+    {
+        "Village": "Goldshire",
+        "Population": 966,
+        "Food": 97,
+        "Wood": 135,
+        "Stone": 1642,
+        "Gold": 1971,
+        "Day": 500
+    },
+    {
+        "Village": "Ironforge",
+        "Population": 260,
+        "Food": 781,
+        "Wood": 804,
+        "Stone": 569,
+        "Gold": 2019,
+        "Day": 500
+    },
+    {
+        "Village": "Sunfield",
+        "Population": 59,
+        "Food": 684,
+        "Wood": 2437,
+        "Stone": 702,
+        "Gold": 1667,
+        "Day": 500
+    },
+    {
+        "Village": "Mistvale",
+        "Population": 1078,
+        "Food": 906,
+        "Wood": 2084,
+        "Stone": 984,
+        "Gold": 484,
+        "Day": 500
+    },
+    {
+        "Village": "Dragonrock",
+        "Population": 3762,
+        "Food": 1692,
+        "Wood": 97,
+        "Stone": 1080,
+        "Gold": 1336,
+        "Day": 500
+    },
+    {
+        "Village": "Frostmoor",
+        "Population": 691,
+        "Food": 2906,
+        "Wood": 1417,
+        "Stone": 819,
+        "Gold": 991,
+        "Day": 500
+    }
+]
