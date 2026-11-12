@@ -71,6 +71,3 @@ The script runs 100 simulated days and then prints the analysis.
 - Running the script again continues from the state saved in `village.json`, and appends to `simulation.json`. To start fresh, restore the original `village.json` and delete `simulation.json`.
 - Changes are random (-100 to +100 per resource per day), so results differ on every run.
 
-## License
-
-Choose a license, for example MIT, and add a `LICENSE` file.
