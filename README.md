@@ -46,7 +46,7 @@ pip install numpy pandas
 ## Usage
 
 ```bash
-python village.py
+python village_simulation.py
 ```
 
 The script runs 100 simulated days and then prints the analysis.
@@ -60,7 +60,7 @@ The script runs 100 simulated days and then prints the analysis.
 
 ```
 .
-├── village.py
+├── village_simulation.py
 ├── village.json
 ├── .gitignore
 └── README.md
